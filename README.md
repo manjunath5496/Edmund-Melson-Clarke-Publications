@@ -11,7 +11,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Edmund-Melson-Clarke-Publications/blob/master/clarke(4).pdf" style="text-decoration:none;">Bounded Model Checking Using Satisfiability Solving</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Edmund-Melson-Clarke-Publications/blob/master/clarke(5).pdf" style="text-decoration:none;">Symbolic model checking: 10<sup>20</sup> states and beyond</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Edmund-Melson-Clarke-Publications/blob/master/clarke(6).pdf" style="text-decoration:none;">Verification tools for finite-state concurrent systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Edmund-Melson-Clarke-Publications/blob/master/clarke(7).pdf" style="text-decoration:none;">Neural Machine Translation by Jointly Learning to Align and Translate</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Edmund-Melson-Clarke-Publications/blob/master/clarke(7).pdf" style="text-decoration:none;">Counterexample-Guided Abstraction Refinement for Symbolic Model Checking</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Edmund-Melson-Clarke-Publications/blob/master/clarke(8).pdf" style="text-decoration:none;"> The Birth of Model Checking </a></li>
    </ul>
